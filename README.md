@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DylanGuo916/DylanGuo916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 𝗛i！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# 𝗛alo！👋
 
 I'm [Dylan Guo](https://github.com/DylanGuo916)! I'm a software engineer 👨‍💻 who is like moive, cat and unknown things.
 
