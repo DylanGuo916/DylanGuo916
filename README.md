@@ -30,7 +30,7 @@ I'm Dylan, a software development engineer 👨‍💻 who likes movies, cats an
 
 
 
-## 🧐 `About` `Me`
+## 🧐 `About Me`
 
 - 👨‍💻 My home page: https://github.com/DylanGuo916
 
