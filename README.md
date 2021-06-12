@@ -32,9 +32,9 @@ I'm Dylan, a software development engineer 👨‍💻 who likes movies, cats an
 
 ## 🧐 `About Me`
 
-- 👨‍💻 My home page: https://github.com/DylanGuo916
+- 👨‍💻 My homepage: dylanguo916.github.io
 
-- 📫 How to reach me: xjtuguozhe@foxmail.com
+- 📫 How to reach me: dylanguo916@gmail.com
 
 - 🌱 Languages and Tools: 
 
