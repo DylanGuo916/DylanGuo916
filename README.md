@@ -32,7 +32,7 @@ I'm Dylan, a software development engineer 👨‍💻 who likes movies, cats an
 
 ## 🧐 `About Me`
 
-- 👨‍💻 My homepage: dylanguo916.github.io
+- 👨‍💻 My homepage: https://dylanguo916.github.io/
 
 - 📫 How to reach me: dylanguo916@gmail.com
 
