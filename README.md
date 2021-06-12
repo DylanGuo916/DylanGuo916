@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 𝗛alo！👋
 
-I'm [Dylan Guo](https://github.com/DylanGuo916)! I'm a software development engineer 👨‍💻 who likes moive, cat and unknown things.
+I'm Dylan, a software development engineer 👨‍💻 who likes movies, cats and all the unknowns.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:1378860132@qq.com)](mailto:xjtuguozhe@foxmail.com)
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/20626204)](https://space.bilibili.com/253677716)
