@@ -50,3 +50,5 @@ I'm Dylan, a software development engineer 👨‍💻 who likes movies, cats an
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
   </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dylanguo916&theme=onedark&margin-w=15&margin-h=15&rank=-C,-B,-?)]()
