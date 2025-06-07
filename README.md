@@ -1,23 +1,3 @@
-<!--
-**DylanGuo916/DylanGuo916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DylanGuo916&repo=Road-to-Leetcode800)
-- [![Github stats](https://github-readme-stats.vercel.app/api?username=DylanGuo916&show_icons=true&include_all_commits=true)](https://github.com/YourUsername/github-readme-stats)
-- 
-- 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanGuo916&layout=compact)](https://github.com/DylanGuo916/github-readme-stats)
-- -->
-
 # 𝗛alo！👋
 
 I'm Dylan, a software development engineer 👨‍💻 who likes movies, cats and all the unknowns.
@@ -51,4 +31,4 @@ I'm Dylan, a software development engineer 👨‍💻 who likes movies, cats an
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
   </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dylanguo916&theme=onedark&margin-w=15&margin-h=15&rank=-C,-B,-?)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=dylanguo916&theme=onedark&margin-w=15&margin-h=15&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
