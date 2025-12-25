@@ -2,12 +2,12 @@
 
 I'm Dylan, a software development engineer 👨‍💻 who likes movies, cats and all the unknowns.
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dylanguo916@gmail.com)
-<!-- [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/20626204)](https://space.bilibili.com/253677716) -->
+<!-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dylanguo916@gmail.com)
+[![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/20626204)](https://space.bilibili.com/253677716)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DylanGuo916)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanGuo916&hide_border=true&layout=compact&hide=javascript,html,css" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanGuo916&hide_border=true&layout=compact&hide=javascript,html,css" /> -->
 
 
 
