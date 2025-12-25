@@ -3,7 +3,7 @@
 I'm Dylan, a software development engineer 👨‍💻 who likes movies, cats and all the unknowns.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dylanguo916@gmail.com)
-[![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/20626204)](https://space.bilibili.com/253677716)
+<!-- [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/20626204)](https://space.bilibili.com/253677716) -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DylanGuo916)
 
 
@@ -13,7 +13,7 @@ I'm Dylan, a software development engineer 👨‍💻 who likes movies, cats an
 
 ## 🧐 `About Me`
 
-- 👨‍💻 My homepage: https://dylanguo916.github.io/
+<!-- - 👨‍💻 My homepage: https://dylanguo916.github.io/ -->
 
 - 📫 How to reach me: dylanguo916@gmail.com
 
